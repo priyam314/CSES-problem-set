@@ -28,24 +28,24 @@ Solutions to CSES problems
 
 ## Dynamic Programming
 
-| [Dice Combinations](https://cses.fi/problemset/task/1633) | [Solution]() |
-| :-------------------------------------------------------: | ------------ |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
-|                                                           |              |
+| [Dice Combinations](https://cses.fi/problemset/task/1633) | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/dynamic_programming/dice_combinations.cpp) |
+| :-------------------------------------------------------: | ------------------------------------------------------------ |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
+|                                                           |                                                              |
 
