@@ -31,7 +31,7 @@ Solutions to CSES problems
 | [Distinct Elements](https://cses.fi/problemset/task/1621/) | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/distinctNumber.cpp) |
 | :--------------------------------------------------------: | ------------------------------------------------------------ |
 |    [Apartments](https://cses.fi/problemset/task/1084/)     | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/apartments.cpp) |
-|                                                            |                                                              |
+|   [Ferris Wheel](https://cses.fi/problemset/task/1090/)    | [Solution]()                                                 |
 |                                                            |                                                              |
 |                                                            |                                                              |
 |                                                            |                                                              |
