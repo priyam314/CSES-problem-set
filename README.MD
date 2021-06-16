@@ -75,7 +75,7 @@ Solutions to CSES problems
 | [Coin Combination 1](https://cses.fi/problemset/task/1635/) | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/dynamic_programming/coinCombination1.cpp) |
 |                                                             |                                                              |
 |   [Removing Digits](https://cses.fi/problemset/task/1637)   | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/dynamic_programming/removingDigits.cpp) |
-|                                                             |                                                              |
+|     [Grid Paths](https://cses.fi/problemset/task/1638/)     | [Solution]()                                                 |
 |                                                             |                                                              |
 |                                                             |                                                              |
 |                                                             |                                                              |
