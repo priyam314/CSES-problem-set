@@ -79,7 +79,7 @@ Solutions to CSES problems
 |                                                             |                                                              |
 |                                                             |                                                              |
 |                                                             |                                                              |
-|   [Edit Distance](https://cses.fi/problemset/task/1639/)    | [Solution]()                                                 |
+|   [Edit Distance](https://cses.fi/problemset/task/1639/)    | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/dynamic_programming/editDistance.cpp) |
 |                                                             |                                                              |
 |                                                             |                                                              |
 |                                                             |                                                              |
