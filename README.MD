@@ -79,7 +79,7 @@ Solutions to CSES problems
 |                                                             |                                                              |
 |                                                             |                                                              |
 |                                                             |                                                              |
-|                                                             |                                                              |
+|   [Edit Distance](https://cses.fi/problemset/task/1639/)    | [Solution]()                                                 |
 |                                                             |                                                              |
 |                                                             |                                                              |
 |                                                             |                                                              |
