@@ -81,7 +81,7 @@ Solutions to CSES problems
 |                                                             |                                                              |
 |   [Edit Distance](https://cses.fi/problemset/task/1639/)    | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/dynamic_programming/editDistance.cpp) |
 |                                                             |                                                              |
-|     [Money Sums](https://cses.fi/problemset/task/1745/)     | [Solution]()                                                 |
+|     [Money Sums](https://cses.fi/problemset/task/1745/)     | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/dynamic_programming/moneySums.cpp) |
 |                                                             |                                                              |
 |                                                             |                                                              |
 |                                                             |                                                              |
