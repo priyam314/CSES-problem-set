@@ -28,42 +28,42 @@ Solutions to CSES problems
 
 ## Searching and Sorting
 
-| [Distinct Elements](https://cses.fi/problemset/task/1621/) | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/distinctNumber.cpp) |
-| :--------------------------------------------------------: | ------------------------------------------------------------ |
-|    [Apartments](https://cses.fi/problemset/task/1084/)     | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/apartments.cpp) |
-|   [Ferris Wheel](https://cses.fi/problemset/task/1090/)    | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/ferrisWheel.cpp) |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-| [Sum of Two Values](https://cses.fi/problemset/task/1640/) | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/sumofTwoValues.cpp) |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
-|                                                            |                                                              |
+|  [Distinct Elements](https://cses.fi/problemset/task/1621/)  | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/distinctNumber.cpp) |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+|     [Apartments](https://cses.fi/problemset/task/1084/)      | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/apartments.cpp) |
+|    [Ferris Wheel](https://cses.fi/problemset/task/1090/)     | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/ferrisWheel.cpp) |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|  [Sum of Two Values](https://cses.fi/problemset/task/1640/)  | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/sumofTwoValues.cpp) |
+| [Maximum Sub-Array Sum](https://cses.fi/problemset/task/1643) | [Solution]()                                                 |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
 
 
