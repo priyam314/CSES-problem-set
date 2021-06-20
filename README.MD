@@ -20,7 +20,7 @@ Solutions to CSES problems
 |                                                           |                                                              |
 |                                                           |                                                              |
 |                                                           |                                                              |
-| [Creating Strings](https://cses.fi/problemset/task/1622/) |                         [Solution]()                         |
+| [Creating Strings](https://cses.fi/problemset/task/1622/) | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/introductory/creatingStrings.py) |
 |                                                           |                                                              |
 |                                                           |                                                              |
 |                                                           |                                                              |
