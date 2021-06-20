@@ -35,7 +35,7 @@ Solutions to CSES problems
 |                                                            |                                                              |
 |                                                            |                                                              |
 |                                                            |                                                              |
-| [Sum of Two Values](https://cses.fi/problemset/task/1640/) | [Solution]()                                                 |
+| [Sum of Two Values](https://cses.fi/problemset/task/1640/) | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/searching_and_sorting/sumofTwoValues.cpp) |
 |                                                            |                                                              |
 |                                                            |                                                              |
 |                                                            |                                                              |
