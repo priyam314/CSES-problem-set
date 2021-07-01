@@ -18,7 +18,7 @@ Solutions to CSES problems
 |    [Trailing Zeros](https://cses.fi/problemset/task/1618)    | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/introductory/trailingZeros.cpp) |
 |      [Coin Piles](https://cses.fi/problemset/task/1754)      | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/introductory/coinPiles.cpp) |
 |                                                              |                                                              |
-|                                                              |                                                              |
+|      [Gray Code](https://cses.fi/problemset/task/2205)       | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/introductory/grayCode.py) |
 |                                                              |                                                              |
 |  [Creating Strings](https://cses.fi/problemset/task/1622/)   | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/introductory/creatingStrings.py) |
 |                                                              |                                                              |
