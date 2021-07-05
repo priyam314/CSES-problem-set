@@ -92,24 +92,24 @@ Solutions to CSES problems
 
 ## Range Queries
 
-| [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [Solution]() |
-| :----------------------------------------------------------: | ------------ |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
-|                                                              |              |
+| [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/range_queries/static_range_sum_queries.cpp) |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
