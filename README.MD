@@ -23,7 +23,7 @@ Solutions to CSES problems
 |  [Creating Strings](https://cses.fi/problemset/task/1622/)   | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/introductory/creatingStrings.py) |
 |                                                              |                                                              |
 | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/introductory/chessboardAndQueens.cpp) |
-|                                                              |                                                              |
+|    [Digit Queries](https://cses.fi/problemset/task/2431)     | [Solution](https://github.com/priyam314/CSES-problem-set/blob/main/introductory/digitQueries.py) |
 |                                                              |                                                              |
 
 ## Searching and Sorting
